@@ -168,8 +168,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #00abff !important;
-  border-color: #00abff !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -177,14 +177,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #0078b3 !important;
-  border-color: #0078b3 !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #0078b3 !important;
-  border-color: #0078b3 !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -332,22 +332,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #006799;
-  color: #006799;
+  border-color: #0b566f;
+  color: #0b566f;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #00abff;
-  border-color: #00abff;
+  background-color: #149dcc;
+  border-color: #149dcc;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #00abff !important;
-  border-color: #00abff !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -467,7 +467,7 @@ body {
   color: #b519a3 !important;
 }
 .text-secondary {
-  color: #00abff !important;
+  color: #149dcc !important;
 }
 .text-success {
   color: #06fa0e !important;
@@ -493,7 +493,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #006799 !important;
+  color: #0b566f !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1409,8 +1409,8 @@ body {
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
-  color: #000000 !important;
-  background: #00abff !important;
+  color: #ffffff !important;
+  background: #149dcc !important;
   box-shadow: none !important;
 }
 .cid-rtfn8umAcK {
@@ -1467,7 +1467,7 @@ body {
   -webkit-justify-content: center;
 }
 .cid-rtcSRbSnVE .testimonials-container .testimonials-item .user {
-  background: #ffffff;
+  background: #ff00c4;
 }
 .cid-rtcSRbSnVE .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -1497,6 +1497,15 @@ body {
   .cid-rtcSRbSnVE .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-rtcSRbSnVE .user_text {
+  color: #ffffff;
+}
+.cid-rtcSRbSnVE .user_desk {
+  color: #ffffff;
+}
+.cid-rtcSRbSnVE .user_name {
+  color: #ffffff;
 }
 .cid-rsDuqY4li0 .navbar {
   background: #ffffff;
@@ -1943,7 +1952,7 @@ body {
 .cid-rtcZ5m7g8O {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #ff00d1;
 }
 .cid-rtcZ5m7g8O .nav-tabs {
   -webkit-justify-content: center;
@@ -1954,28 +1963,28 @@ body {
 }
 .cid-rtcZ5m7g8O .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #767676;
+  color: #ffffff;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #767676;
+  border: 1px solid #ffffff;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: all .3s;
 }
 .cid-rtcZ5m7g8O .nav-tabs .nav-link:hover {
-  background-color: #149dcc;
+  background-color: #00abff;
 }
 .cid-rtcZ5m7g8O .nav-tabs .nav-link:focus {
   box-shadow: none;
-  background-color: #149dcc;
+  background-color: #00abff;
 }
 .cid-rtcZ5m7g8O .nav-tabs .nav-link.active {
   font-weight: 500;
   color: #ffffff;
   font-style: normal;
   border: none;
-  background: #149dcc;
+  background: #00abff;
 }
 .cid-rtcZ5m7g8O .nav-tabs .nav-link.active:hover {
   border: none;
@@ -2004,7 +2013,10 @@ body {
   }
 }
 .cid-rtcZ5m7g8O P {
-  color: #000000;
+  color: #ffffff;
+}
+.cid-rtcZ5m7g8O H2 {
+  color: #ffffff;
 }
 .cid-rtFilKu5V4 {
   padding-top: 15px;
@@ -2038,7 +2050,7 @@ body {
 .cid-rtFxGbs7wr {
   padding-top: 0px;
   padding-bottom: 45px;
-  background-color: #ff00c4;
+  background-color: #ff00d1;
 }
 .cid-rtFxGbs7wr .mbr-text {
   color: #ffffff;
